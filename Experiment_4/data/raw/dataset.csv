@@ -1,0 +1,8 @@
+age,income,department,purchased
+22,25000,IT,1
+25,30000,HR,0
+28,,IT,1
+22,25000,IT,1
+30,45000,Sales,1
+35,50000,HR,0
+40,60000,IT,0
